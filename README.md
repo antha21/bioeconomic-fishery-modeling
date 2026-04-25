@@ -1,8 +1,8 @@
 # Profit and Population Dynamics: Bioeconomic Modeling and Real Options Analysis of a Fishery
 
-**Authors:** Anthony Artino and Sarah Decipeda
-**Institution:** Kent State University, Department of Mathematical Sciences
-**Course:** Modeling Projects (MATH 52039)
+* **Authors:** Anthony Artino and Sarah Decipeda
+* **Institution:** Kent State University, Department of Mathematical Sciences
+* **Course:** Modeling Projects (MATH 52039)
 
 ## Project Overview
 In this project, we model the bioeconomic dynamics of a fish population being harvested and the profit produced from the yield. The population follows logistic growth with harvesting, and profit is measured per unit catch. 
