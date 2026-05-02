@@ -1,6 +1,7 @@
 # Profit and Population Dynamics: Bioeconomic Modeling and Real Options Analysis of a Fishery
-**Authors:** Anthony Artino and Sarah Decipeda
-**Institution:** Kent State University, Department of Mathematical Sciences
+
+**Authors:** Anthony Artino and Sarah Decipeda<br>
+**Institution:** Kent State University, Department of Mathematical Sciences<br>
 **Course:** Modeling Projects (MATH 52039)
 
 ## Project Overview
